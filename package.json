@@ -81,9 +81,8 @@
     "node-sass": "^4.12.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
-  "author": "bootstrapdash",
   "url": "http://www.bootstrapdash.com/",
   "copyright": "",
   "license": ""
