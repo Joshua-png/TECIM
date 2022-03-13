@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Joshua-png/TECIM/issues"
   },
-  "homepage": "https://github.com/Joshua-png/TECIM#readme"
+  "homepage": "https://github.com/Joshua-png/TECIM#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
